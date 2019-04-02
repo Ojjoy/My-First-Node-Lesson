@@ -1,0 +1,19 @@
+{
+  "name": "nodefiles",
+  "version": "11.13.0",
+  "description": "Simple Web App",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ojjoy/My-First-Node-Lesson.git"
+  },
+  "author": "Mary Azpa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ojjoy/My-First-Node-Lesson/issues"
+  },
+  "homepage": "https://github.com/Ojjoy/My-First-Node-Lesson#readme"
+}
